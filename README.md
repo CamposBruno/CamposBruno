@@ -7,3 +7,5 @@
 - 💬 Ask me about Solidity RWA, OnchainID, ERCs, Hedera, Backend in crypto
 - ⚡  Fun fact: I’m Brazilian, so I write smart contracts with **_ginga🇧🇷_**. (That’s like swag, but for Solidity).
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/bhncampos)
+
+![octcat](octocat.png)
